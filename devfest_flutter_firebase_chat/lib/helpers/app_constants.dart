@@ -4,9 +4,11 @@ import 'package:flutter/material.dart';
 
 class AppConstants {
   static const String APP_PRIMARY_COLOR = "#026be4";
+  static const String APP_SECONDARY_COLOR = "#026be4";
   static const String APP_BACKGROUND_COLOR = "#F6F8F9";
   static const String APP_BACKGROUND_COLOR_WHITE = "#FFFFFF";
   static const String APP_PRIMARY_COLOR_LIGHT = "#9f9f9f";
+
 
   static const String APP_PRIMARY_COLOR_BLACK = "#000000";
   static const String APP_PRIMARY_FONT_COLOR_WHITE = "#FFFFFF";
